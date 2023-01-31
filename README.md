@@ -1,13 +1,15 @@
-# YelpCamp
+# YetiCamp
+
 Full stack web dev project
 
 Visit the link: https://warm-headland-23131.herokuapp.com/
 
 ## TOOLS & TECHNOLOGIES USED
+
 - **HTML5**
 - **CSS3**
 - **VANILLA JS**
-- **NODE JS** 
+- **NODE JS**
 - **MONGODB**
 - **EXPRESS**
 - **EJS**
@@ -17,5 +19,6 @@ Visit the link: https://warm-headland-23131.herokuapp.com/
 - **MOMENTJS**
 
 ## CONTRIBUTE
+
 **Side Note:** The project aims at in some future to integrate many more features.
 Issues, PRs, and all your suggestions and discussions are welcomed!
